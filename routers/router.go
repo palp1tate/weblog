@@ -17,4 +17,7 @@ func init() {
 	web.Router("/comment", &controllers.BlogController{}, "post:Comment")
 	web.AutoRouter(&controllers.AdminController{})
 
+	//添加404
+	web.Router("*", &controllers.ErrorController{}, "*:Error")
+
 }

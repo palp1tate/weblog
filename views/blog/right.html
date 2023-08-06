@@ -1,6 +1,6 @@
 <div class="blog-main-right">
     <div class="blog-search">
-        <form class="layui-form" action="/article.html" method="get" id="formSearch">
+        <form class="layui-form" action="/article" method="get" id="formSearch">
             <div class="layui-form-item">
                 <div class="search-keywords  shadow">
                     <input type="text" name="keyword" style="float: left; width: 82%" lay-verify="required"
@@ -30,7 +30,7 @@
         <ul class="fa-ul blog-module-ul">
             {{range .hosts}}
                 <li style="line-height: 30px"><i class="fa-li fa fa-hand-o-right"></i><a
-                            href="detail.html?id={{.Id}}">{{.Title}}</a></li>
+                            href="/detail?id={{.Id}}">{{.Title}}</a></li>
             {{end}}
         </ul>
     </div>

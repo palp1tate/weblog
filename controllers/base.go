@@ -14,6 +14,10 @@ type baseController struct {
 	actionName     string
 }
 
+type ErrorController struct {
+	baseController
+}
+
 func (p *baseController) Prepare() {
 	controllerName, actionName := p.GetControllerAndAction()
 	p.controllerName = strings.ToLower(controllerName[0 : len(controllerName)-10])
@@ -64,4 +68,8 @@ func (p *baseController) IsStart() {
 		p.Ctx.WriteString("系统维护.....")
 		return
 	}
+}
+
+func (c ErrorController) Error() {
+	c.IsStart()
 }

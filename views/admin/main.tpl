@@ -28,7 +28,7 @@
                 </li>
                 <li class="layui-nav-item">
                     <a href="javascript:;">
-                        admin,欢迎你！
+                        Palp1tate,欢迎你！
                     </a>
                     <dl class="layui-nav-child">
                         <dd>
