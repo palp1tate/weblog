@@ -8,7 +8,7 @@
 
 1.克隆到本地
 ```bash
-git clone https://github.com/uestc-wxy/weblog.git
+git clone https://github.com/palp1tate/weblog.git
 ```
 2.下载依赖
 
@@ -46,17 +46,17 @@ go build
 账号： Palp1tate  密码 :123456
 ```
 前台部分页面：
-![image](https://github.com/uestc-wxy/weblog/assets/120303802/d4955c9c-cacb-4816-92eb-e10eb2cd55b1)
-![image](https://github.com/uestc-wxy/weblog/assets/120303802/76ecf537-33d4-4cab-b3e6-0f7837926132)
-![image](https://github.com/uestc-wxy/weblog/assets/120303802/111af7f1-1bee-4715-a333-7deb71818bb0)
-![image](https://github.com/uestc-wxy/weblog/assets/120303802/c9430372-40fe-4527-ab3f-adf4518e2311)
-![image](https://github.com/uestc-wxy/weblog/assets/120303802/2431c882-e018-4a7a-bef2-a8a5bd39c1fd)
-![image](https://github.com/uestc-wxy/weblog/assets/120303802/94f883a5-6466-4a2b-b190-77e7fbe27ded)
+![image](https://github.com/palp1tate/weblog/assets/120303802/d4955c9c-cacb-4816-92eb-e10eb2cd55b1)
+![image](https://github.com/palp1tate/weblog/assets/120303802/76ecf537-33d4-4cab-b3e6-0f7837926132)
+![image](https://github.com/palp1tate/weblog/assets/120303802/111af7f1-1bee-4715-a333-7deb71818bb0)
+![image](https://github.com/palp1tate/weblog/assets/120303802/c9430372-40fe-4527-ab3f-adf4518e2311)
+![image](https://github.com/palp1tate/weblog/assets/120303802/2431c882-e018-4a7a-bef2-a8a5bd39c1fd)
+![image](https://github.com/palp1tate/weblog/assets/120303802/94f883a5-6466-4a2b-b190-77e7fbe27ded)
 后台部分页面：
-![image](https://github.com/uestc-wxy/weblog/assets/120303802/6253565c-2da5-4113-933d-296f303cbfd8)
-![image](https://github.com/uestc-wxy/weblog/assets/120303802/85f9a7de-fe24-4d50-90dc-8754d9e2e751)
-![image](https://github.com/uestc-wxy/weblog/assets/120303802/0034e25b-4e35-46cc-b1da-a5cb158e5c54)
-![image](https://github.com/uestc-wxy/weblog/assets/120303802/e3aeb313-ad64-436f-9ea1-c9e2be5ce979)
+![image](https://github.com/palp1tate/weblog/assets/120303802/6253565c-2da5-4113-933d-296f303cbfd8)
+![image](https://github.com/palp1tate/weblog/assets/120303802/85f9a7de-fe24-4d50-90dc-8754d9e2e751)
+![image](https://github.com/palp1tate/weblog/assets/120303802/0034e25b-4e35-46cc-b1da-a5cb158e5c54)
+![image](https://github.com/palp1tate/weblog/assets/120303802/e3aeb313-ad64-436f-9ea1-c9e2be5ce979)
 
 
 
